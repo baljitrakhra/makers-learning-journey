@@ -25,18 +25,18 @@ By the end of the week all developers can:
 #### SMART Goals 
 
 ##### Goal 1
- **Specific** : To use TDD and debugging methodology for solving all the 22 challenges of Boris bike problem
- **Measurable** : Completion of all the challenges with my paring partners
- **Actionable** : The training and learning material provided I will be able to achieve this goal
- **Relevant** : This goal is directly linked to course and week 1 goal 
- **Timely** : Will be completed by friday COP ( 25/03/22)
+ **Specific** : To use TDD and debugging methodology for solving all the 22 challenges of Boris bike problem <br>
+ **Measurable** : Completion of all the challenges with my paring partners <br>
+ **Actionable** : The training and learning material provided I will be able to achieve this goal <br>
+ **Relevant** : This goal is directly linked to course and week 1 goal <br>
+ **Timely** : Will be completed by friday COP ( 25/03/22) <br>
 
 ##### Goal 2
- **Specific** : To learn some basic object oriented principles like encapsulation, SRP etc 
- **Measurable** : Completion of all the OOO lessons and excercises on codeacadmey ruby couse
- **Actionable** : I have done this in January and will be able to redo it
- **Relevant** : This goal is directly linked to course and week 1 goal. Will help me be more confident in OOO programming 
- **Timely** : WIll be completed by tuesday COP (22/03/22)
+ **Specific** : To learn some basic object oriented principles like encapsulation, SRP etc <br>
+ **Measurable** : Completion of all the OOO lessons and excercises on codeacadmey ruby couse <br>
+ **Actionable** : I have done this in January and will be able to redo it <br>
+ **Relevant** : This goal is directly linked to course and week 1 goal. Will help me be more confident in OOO programming <br>
+ **Timely** : WIll be completed by tuesday COP (22/03/22) <br>
 
 
 
