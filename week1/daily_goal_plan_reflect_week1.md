@@ -1,6 +1,6 @@
 ## Week 1
 
-### Goals
+### Goals (Misson for the week)
 
 By the end of the week all developers can:
 
@@ -20,30 +20,35 @@ By the end of the week all developers can:
   <dd>You'll be introduced to a technique for uncovering the root-cause of bugs in your code. When your code doesn't work, you'll be able to apply a consistent process to resolve the issue.</dd>
 </dl>
 
-### Wednesday
+## Week 1
 
-#### Daily goals
+#### SMART Goals 
 
-<dl>
-  <dt>Establishing a daily learning  cycle routine</dt>
-  <dt>Finish setting up my Mac and getting used to </dt>
-  <dt>OOD:</dt>
-    <dd>Describe some basic OO principles like encapsulation and SRP,</dd>
-    <dd>learning how to setup and structure a new Ruby project, and turn user requirements into working code.</dd>
-    <dd>Remind myself `initialize` method, and `attr_reader` and `attr_writer`</dd>
-  <dt>Get practice working through error messages, particularly digging into the stack trace</dt>
-  <dt>Practice markdown formatting</dt>
+##### Goal 1
+ **Specific** : To use TDD and debugging methodology for solving all the 22 challenges of Boris bike problem
+ **Measurable** : Completion of all the challenges with my paring partners
+ **Actionable** : The training and learning material provided I will be able to achieve this goal
+ **Relevant** : This goal is directly linked to course and week 1 goal 
+ **Timely** : Will be completed by friday COP ( 25/03/22)
 
-#### Day plan
+##### Goal 2
+ **Specific** : To learn some basic object oriented principles like encapsulation, SRP etc 
+ **Measurable** : Completion of all the OOO lessons and excercises on codeacadmey ruby couse
+ **Actionable** : I have done this in January and will be able to redo it
+ **Relevant** : This goal is directly linked to course and week 1 goal. Will help me be more confident in OOO programming 
+ **Timely** : WIll be completed by tuesday COP (22/03/22)
+
+
+
+#### Tuesday plan 
 
 * [Tracking learning] (https://github.com/makersacademy/course/blob/main/goals/self_directed_learning/resources/tracking_your_learning.md)
-* [Prepare to code setup] (http://www.preparetocode.io/)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 * [Encapsulation](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/oop_1)
 * [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/encapsulation.md)
-* [Markdown guidance] (https://daringfireball.net/projects/markdown/syntax)
+* [Debbuging excercise] https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_fizzbuzz
 
-#### Reflection at the end of the day
+#### Reflection at the end of the week
 
 
 
