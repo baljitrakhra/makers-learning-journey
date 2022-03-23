@@ -1,34 +1,11 @@
-# Title of project
+# Makers Learning Journey
 
-Brief description of what the project is
+This repo is used to manage and evidence my learning journey at Makers Academy from February 2022 - June 2022, training as a software engineer / full stack developer.
 
-## Getting started
+Take a look at the [course goals](https://github.com/almorcrette/makers-learning-journey/blob/main/course_goals.md) to see the high level goals of the bootcamp.
 
-`git clone path-to-your-repo`
-`command_to_install_dependencies` (e.g. `bundle`)
+## How to use
+Browse around the files, or use the table of contents below to find what you are looking for.
 
-## Usage
-
-`command_to_start` (e.g. `rackup` or `rails s`)
-Navigate to `http://localhost:4567/`
-
-
-## Running tests
-
-`test_command` (e.g. `rspec`)
-
-## File manifest
-
-----------------------------------------------
-
-At the barest minimum, it should contain a description of what the code does, how to install it, how to use it and how to run its tests. In addition, READMEs often include other information such as:
-
-- Configuration instructions
-- A file manifest (list of files included)
-- Copyright and licensing information
-- Contact information for the distributor or programmer
-- Known bugs
-- Troubleshooting
-- Credits and acknowledgments
-- A changelog (usually for programmers)
-- A news section (usually for users)
+## Table of contents
+WIP
