@@ -49,6 +49,8 @@ By the end of the week all developers can:
 * [Debbuging excercise] https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_fizzbuzz
 
 #### Reflection at the end of the week
+* **For goal 1** I was able to finish 20 challenges and it was really helpfull in understanding the concepts. 
+* **For goal 2** I revised all the code academy lessons for OOO and also read Maker's material on OOO. I feel more confident in my undestanding of OOO and related concepts
 
 
 
