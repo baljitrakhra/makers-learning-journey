@@ -16,7 +16,7 @@ Start attending process workshops to focus on your developer process. Anyone fro
 Watch a short video explaining what Reviews are and how to use this valuable resource - and then consider booking one!
 
 
-## Week 1
+## Week 2
 
 #### SMART Goals 
 
@@ -50,9 +50,10 @@ Watch a short video explaining what Reviews are and how to use this valuable res
 * [Debbuging excercise] https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_fizzbuzz
 
 #### Reflection at the end of the week
-* **For goal 1** I was able to finish 20 challenges and it was really helpfull in understanding the concepts. 
-* **For goal 2** I revised all the code academy lessons for OOO and also read Maker's material on OOO. I feel more confident in my undestanding of OOO and related concepts
+* **For goal 1** I attended the workshop on doubles, mocking and stubs. That really helped me to build up the theoratical aspect of it. I independently completed two excercises on these concepts. Overall result of this was that I was able to do stubing for weekend challege withour any issue.  
+* **For goal 2** I feel more confident in OOO. I understand SOLID principle. I have started using dependency injections, domain modelling and planning the code better before typing anything in. I spent 2 hours on planning code for weekend challenge and did some concept testing( using small codes). This helped me to complete the weekend challenge by saturday COP. 
+* **For goal 3** I am felling better about giving time to my wellbeing. I plan my day better to include time boxed excercises. 
 
 
 
-
+ 
